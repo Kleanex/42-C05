@@ -1,0 +1,27 @@
+ex00
+
+#include <stdio.h>
+int main()
+{
+	int nb;
+
+	nb = 6;
+	printf("%d", ft_iterative_factorial(nb));
+	return (0);
+}
+
+ex01
+
+#include <stdio.h>
+int main()
+{
+	int nb;
+
+	nb = 6;
+	printf("%d", *********_factorial(nb));
+	return (0);
+}
+
+ex02
+
+
